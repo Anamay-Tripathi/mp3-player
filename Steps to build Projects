@@ -1,0 +1,8 @@
+Steps to Build a Python MP3 Music Player
+
+
+1}  Import modules
+2)  Initializing root window
+3)  Create a function for adding and playing music
+4)  Make icon and logo
+5)  Create music player buttons
